@@ -1,0 +1,46 @@
+// colors site start
+$color-1: #f26c4f;
+$color-2: #9cdd48;
+$color-3: #367d98;
+$color-4: #f2a44f;
+$color-5: #e6dacd;
+
+body {
+  background-color: $color-5;
+}
+// colors site End
+
+// variables site start
+
+// variables site End
+
+// Reset CSS start
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+// Reset CSS End
